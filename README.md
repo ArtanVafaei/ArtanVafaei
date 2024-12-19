@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎓 I'm currently a fourth-year student pursuing my Bachelor of Science in Computer Science at The University of Texas at Dallas (UTD)<br>
 🧐 Interested in full stack development and machine learning<br>
 🔭 Working on building a real-time editor and Discord bots<br>
-🌱 Learning more about Node.js
+🌱 Learning more about Next.js and Hono.js
 
 
 ## 🌐 Socials:
